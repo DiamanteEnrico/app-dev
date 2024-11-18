@@ -1,3 +1,3 @@
 # app-dev
 My first repository
-My favorite series is Arcane
+## My favorite series is Arcane
